@@ -32,4 +32,9 @@ While publicly available CVEs and CVSS ratings are invaluable, they may not alwa
 - Automation and Integration: Allow for automation of vulnerability assessments and integration with existing security systems, monitoring tools, and incident response platforms to streamline vulnerability tracking and mitigation efforts.
 -  Continuous Improvement: Facilitate regular updates and refinements to the scoring model to reflect changing security landscapes, infrastructure updates, and new enterprise vulnerabilities.
 
+# PROJ-CVSS.xlxs
 By implementing a Custom CVSS System, you are equipped with the tools and flexibility to better manage the security risks specific to your environment, ensuring that vulnerabilities are identified, assessed, and remediated in a manner that aligns with your enterprise’s needs and priorities.
+For this purposes you are free to use PROJ-CVSS.xlxs
+
+Best Regards,
+Maks
